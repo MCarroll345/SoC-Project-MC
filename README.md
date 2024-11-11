@@ -6,7 +6,7 @@
 
 <body>
     <header>
-        <h1>Welcome to My Web Page</h1>
+        <h1>SoC Project GitPage</h1>
         <nav>
             <ul>
                 <li><a href="#code">Coding</a></li>
