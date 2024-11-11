@@ -18,6 +18,7 @@
 
     <section id="code">
         <h2>Coding</h2>
+        <img src="fpga-vga-verilog-main/docs/assets/images/switchCase.png" alt="Code depicting a switch case" width="300" height="200">
         <p>This is the home section of the webpage.</p>
     </section>
 
