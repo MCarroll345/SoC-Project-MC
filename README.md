@@ -11,7 +11,7 @@
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#dev">Deelopment</a></li>
             </ul>
         </nav>
     </header>
@@ -26,12 +26,12 @@
         <p>This section contains information about the webpage.</p>
     </section>
 
-    <section id="contact">
+    <section id="dev">
         <h2>Contact Section</h2>
         <p>Here you can find contact information.</p>
     </section>
 
     <footer>
-        <p>Copyright © 2024 My Simple Web Page</p>
+        <p>Copyright © 2024 Mark</p>
     </footer>
 </body>
