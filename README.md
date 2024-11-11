@@ -9,26 +9,26 @@
         <h1>Welcome to My Web Page</h1>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#dev">Deelopment</a></li>
+                <li><a href="#code">Coding</a></li>
+                <li><a href="#demo">Demo</a></li>
+                <li><a href="#dev">Development</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="home">
-        <h2>Home Section</h2>
+    <section id="code">
+        <h2>Coding</h2>
         <p>This is the home section of the webpage.</p>
     </section>
 
-    <section id="about">
-        <h2>About Section</h2>
+    <section id="demo">
+        <h2>Demonstration</h2>
         <p>This section contains information about the webpage.</p>
     </section>
 
     <section id="dev">
-        <h2>Contact Section</h2>
-        <p>Here you can find contact information.</p>
+        <h2>Development</h2>
+        <p>Here will be the development.</p>
     </section>
 
     <footer>
