@@ -28,7 +28,7 @@
 
     <section id="dev">
         <h2>Development</h2>
-        <p>Here will be the development.</p>
+        <p>During the course of this project, there were developments in understanding and manipulating the code. While learning about the code and creating the project there were errors that will be detailed here.</p>
     </section>
 
     <footer>
