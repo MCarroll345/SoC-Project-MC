@@ -20,6 +20,16 @@ header {
     text-align: center;
 }
 
+.dem {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.dem img {
+    max-width: 100%;
+    height: auto;
+}
+
 nav ul {
     list-style: none;
 }
