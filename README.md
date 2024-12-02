@@ -33,6 +33,11 @@
             <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151809.jpg" alt="A picture of the switch turned on with the Offaly flag on the screen" width="200">
             <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151817.jpg" alt="A picture of the switch turned on with the Kenyan flag on the screen" width="200">
         </div>
+        <p>Another way of demonstrating that the switches worked is to show the simulation working as intended through the testbench.</p>
+        <div class="dem">
+            <img src="fpga-vga-verilog-main/docs/assets/images/simCode.png" alt="A picture of the code for the testbench" width="350">
+            <img src="fpga-vga-verilog-main/docs/assets/images/simDemo.png" alt="A picture of the simulation on the testbench" width="350">
+        </div>
     </section>
 
     <section id="dev">
