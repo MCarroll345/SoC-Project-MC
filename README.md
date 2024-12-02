@@ -21,13 +21,16 @@
         <p>The basis of he code for this project was gathered from my previous labs in SoCD.</p> 
         <img src="fpga-vga-verilog-main/docs/assets/images/cyc code.png" alt="Code depicting an if statement" width="500">
         <p>After that, I had to research how to make the switches work with te existing code. After my research, I found that I had to add to my constraints to make them compatible. </p>
-        <img src="fpga-vga-verilog-main/docs/assets/images/constrCode.png" alt="Code showing the constraints of the switches" width="300" height="200">
+        <img src="fpga-vga-verilog-main/docs/assets/images/constrCode.png" alt="Code showing the constraints of the switches" width="500">
         <p>The if else statements hold code for different flags and subsiquently be displayed when their respective switch is flipped, which will be shown in the demo section. </p>
     </section>
 
     <section id="demo">
         <h2>Demonstration</h2>
-        <p>This section contains information about the webpage.</p>
+        <p>To demonstrate that the program is working as intended I have to show that the screen is displaying the flags in their intended order. The first switch is the Irish flag, the second is the Offaly flag, and the third is the Kenyan flag.</p>
+        <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151759.jpg" alt="A picture of the switch turned on with the Irish flag on the screen" width="200">
+        <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151809.jpg" alt="A picture of the switch turned on with the Offaly flag on the screen" width="200">
+        <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151819.jpg" alt="A picture of the switch turned on with the Kenyan flag on the screen" width="200">
     </section>
 
     <section id="dev">
