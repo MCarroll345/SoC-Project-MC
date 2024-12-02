@@ -18,10 +18,10 @@
 
     <section id="code">
         <h2>Coding</h2>
-        <img src="fpga-vga-verilog-main/docs/assets/images/switchCase.png" alt="Code depicting a switch case" width="300" height="200">
         <p>The basis of he code for this project was gathered from my previous labs in SoCD.</p> 
-        <img src="fpga-vga-verilog-main/docs/assets/images/cyc code.png" alt="Code depicting a switch case" width="300" height="200">
+        <img src="fpga-vga-verilog-main/docs/assets/images/cyc code.png" alt="Code depicting an if statement" width="300" height="200">
         <p>After that, I had to research how to make the switches work with te existing code. After my research, I found that I had to add to my constraints to make them compatible. </p>
+        <img src="fpga-vga-verilog-main/docs/assets/images/constrcode.png" alt="Code showing the constraints of the switches" width="300" height="200">
     </section>
 
     <section id="demo">
