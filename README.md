@@ -30,7 +30,7 @@
         <p>To demonstrate that the program is working as intended I have to show that the screen is displaying the flags in their intended order. The first switch is the Irish flag, the second is the Offaly flag, and the third is the Kenyan flag.</p>
         <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151759.jpg" alt="A picture of the switch turned on with the Irish flag on the screen" width="200">
         <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151809.jpg" alt="A picture of the switch turned on with the Offaly flag on the screen" width="200">
-        <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151819.jpg" alt="A picture of the switch turned on with the Kenyan flag on the screen" width="200">
+        <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151817.jpg" alt="A picture of the switch turned on with the Kenyan flag on the screen" width="200">
     </section>
 
     <section id="dev">
