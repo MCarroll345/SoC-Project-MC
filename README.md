@@ -20,9 +20,8 @@
         <h2>Coding</h2>
         <p>The basis of he code for this project was gathered from my previous labs in SoCD. The code given to us was to display several coloured lines across the screen. I addapted the code given to us for my project. The aim of this code is to display different flags depending on which switch is on. You can see in the if loops that it counts the pixels across the screen and makes them all one color. It repeats this until the screen is filled with coloured pixels. In the case of the Kenyan flag, instead of it counting the pixels across the screen, it counts the pixels down the screen because the lines are horizontal. </p> 
         <img src="fpga-vga-verilog-main/docs/assets/images/cyc code.png" alt="Code depicting an if statement" width="500">
-        <p>After that, I had to research how to make the switches work with te existing code. After my research, I found that I had to add to my constraints to make them compatible. </p>
+        <p>After making the loops to display the flags, I had to research how to configure the switches correctly. After failing to configure the switch, the terminal in Vivado recommended using the constraint "set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ire_IBUF]". This allowed the switches to work as intended.</p>
         <img src="fpga-vga-verilog-main/docs/assets/images/constrCode.png" alt="Code showing the constraints of the switches" width="500">
-        <p>The if else statements hold code for different flags and subsiquently be displayed when their respective switch is flipped, which will be shown in the demo section. </p>
     </section>
 
     <section id="demo">
