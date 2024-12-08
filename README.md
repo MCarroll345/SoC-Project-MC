@@ -41,7 +41,7 @@
 
     <section id="dev">
         <h2>Development</h2>
-        <p>During the course of this project, there were developments in understanding and manipulating the code. While learning about the code and creating the project there were errors that will be detailed here.</p>
+        <p>During the course of this project, there were many missunderstandings and errors made. Learning from those mistakes and missunderstandings developed my understanding of verilog as a whole. What the biggest problem for me was in the process of developing my project was the configuration of the switches. When I initially configured the switches, they were being missconstrued by the system as clocks. After researching online and then using AI, the terminal in Vivado recommended that I used the constraint "set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets ire_IBUF]". This fixed my errors and let the switched as intended. The development of this GitPage was aided by the use of AI, giving me a base template for a web page that I could fill in with all of my information and images.</p>
     </section>
 
     <footer>
