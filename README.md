@@ -26,13 +26,13 @@
 
     <section id="demo">
         <h2>Demonstration</h2>
-        <p>To demonstrate that the program is working as intended I have to show that the screen is displaying the flags in their intended order. The first switch is the Irish flag, the second is the Offaly flag, and the third is the Kenyan flag.</p>
+        <p>To demonstrate that the program is working as intended I have to show that the screen is displaying the flags in their intended order. The first switch is the Irish flag, the second is the Offaly flag, and the third is the Kenyan flag. It may be difficult to see in the photos but they are working as intended.</p>
         <div class="dem">
             <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151759.jpg" alt="A picture of the switch turned on with the Irish flag on the screen" width="200">
             <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151809.jpg" alt="A picture of the switch turned on with the Offaly flag on the screen" width="200">
             <img src="fpga-vga-verilog-main/docs/assets/images/20241202_151817.jpg" alt="A picture of the switch turned on with the Kenyan flag on the screen" width="200">
         </div>
-        <p>Another way of demonstrating that the switches worked is to show the simulation working as intended through the testbench.</p>
+        <p>A way to more clearly display the code functioning as intended is by using the simulation and testbench. The below images will show the code used to configure the testbench and the simulation in progress. You can see in the simulation that when the switches are engaged, the RGB is activated. This shows that the switches are properly activating and triggering the display.</p>
         <div class="dem">
             <img src="fpga-vga-verilog-main/docs/assets/images/simCode.png" alt="A picture of the code for the testbench" width="350">
             <img src="fpga-vga-verilog-main/docs/assets/images/simDemo.png" alt="A picture of the simulation on the testbench" width="350">
