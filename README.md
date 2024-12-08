@@ -18,7 +18,7 @@
 
     <section id="code">
         <h2>Coding</h2>
-        <p>The basis of he code for this project was gathered from my previous labs in SoCD.</p> 
+        <p>The basis of he code for this project was gathered from my previous labs in SoCD. The code given to us was to display several coloured lines across the screen. I addapted the code given to us for my project. The aim of this code is to display different flags depending on which switch is on. You can see in the if loops that it counts the pixels across the screen and makes them all one color. It repeats this until the screen is filled with coloured pixels. In the case of the Kenyan flag, instead of it counting the pixels across the screen, it counts the pixels down the screen because the lines are horizontal. </p> 
         <img src="fpga-vga-verilog-main/docs/assets/images/cyc code.png" alt="Code depicting an if statement" width="500">
         <p>After that, I had to research how to make the switches work with te existing code. After my research, I found that I had to add to my constraints to make them compatible. </p>
         <img src="fpga-vga-verilog-main/docs/assets/images/constrCode.png" alt="Code showing the constraints of the switches" width="500">
